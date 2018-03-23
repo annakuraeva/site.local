@@ -76,7 +76,7 @@ if(!empty($_POST['full_name']) && !empty($_POST['email']) && !empty($_POST['user
 		<input type="submit" name="register" id="register" class="button" value="Register" />
 	</p>
 	
-	<p class="regtext">Already have an account? <a href="login.php" >Login Here</a>!</p>
+	<p class="regtext">Already have an account? <a href="index.php" >Login Here</a>!</p>
 </form>
 	
 	</div>
